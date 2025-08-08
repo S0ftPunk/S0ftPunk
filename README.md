@@ -60,4 +60,4 @@ Don State Technical University (DGTU) | 2021–2025
 - 🤝 **Team player** with mentorship experience  
 
 ---
-
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/wardogg)
